@@ -1,3 +1,5 @@
+'use strict';
+
 describe('Dummy Test', function () {
 
   it('works with assert', function () {
