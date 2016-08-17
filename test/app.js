@@ -1,6 +1,5 @@
 'use strict';
 
-const request = require('supertest-as-promised');
 const app = require('../app');
 
 describe('App', function () {

@@ -1,5 +1,4 @@
 'use strict';
-const sinon = require('sinon');
 const moment = require('moment');
 const Token = require('../token');
 

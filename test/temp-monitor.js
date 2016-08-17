@@ -1,5 +1,4 @@
 'use strict';
-const sinon = require('sinon');
 const mailer = require('../mailer');
 const tempMonitor = require('../temp-monitor');
 
